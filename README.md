@@ -10,11 +10,7 @@ Welcome to the Prompt Engineering Workshop!
 - Few-shot & zero-shot techniques
 - Chain-of-thought reasoning
 
-## 📂 Structure
-- `/prompts` → Core concepts
-- `/exercises` → Hands-on practice
-- `/templates` → Reusable prompts
-- `/use-cases` → Real-world examples
+
 
 ## 🧪 Practice
 Start with beginner exercises and move up.
